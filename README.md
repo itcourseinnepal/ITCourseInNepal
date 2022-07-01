@@ -84,18 +84,18 @@ Tip: Discount / Schorship
 - Starting From 16,000 to 1,00,000 or even + 
 
 ### Best Part of BIT
-- Easy and Start From Very Basic
-- More Practical
-- High Growth Rate
+- Easy and starts from very basic
+- More practical
+- High growth rate
 
 ### Final Year Project
-- Real-World IT Project
+- Real-world IT project
 
 ### Tips
 - Don't only depend upon a college education
 - Participate in events
 - Improve your skill
 - Learn whats in market
-- Ask Question [Master Kata Bata Garna Milxa]
+- Ask questions [Master Kata Bata Garna Milxa]
 
 ### IS 3 Years Course Bad?
