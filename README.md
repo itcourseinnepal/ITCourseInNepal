@@ -24,10 +24,10 @@ Tip: Discount / Schorship
 ### Tribhuban University
 | College Name  | University |  Year | Semister | Fees | Eligibility | 
 | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  |
-| Patan Multiple Campus  | TU  | 4 | 8 | N/A  | +2 Math Sub, D+ grade in each subject with GPA 2.00 in aggregate, Entrance Exam   |
-| Amrit Science Campus  | TU  | 4 | 8 | N/A   | +2 Math Sub, D+ grade in each subject with GPA 2.00 in aggregate, Entrance Exam   |
-| Bhaktapur Multiple Campus  | TU  | 4 | 8 | N/A   | +2 Math Sub, D+ grade in each subject with GPA 2.00 in aggregate, Entrance Exam   |
-| Birendra Multiple Campus  | TU  | 4 | 8 | N/A   | +2 Math Sub, D+ grade in each subject with GPA 2.00 in aggregate, Entrance Exam  |
+| Patan Multiple Campus  | TU  | 4 | 8 | N/A  |  N/A   |
+| Amrit Science Campus  | TU  | 4 | 8 | N/A   | N/A   |
+| Bhaktapur Multiple Campus  | TU  | 4 | 8 | N/A   | N/A |
+| Birendra Multiple Campus  | TU  | 4 | 8 | Rs. 4,40,000   | +2 Math Sub, + English Sub,  Entrance Exam  |
 
 
 ### Foreign University
