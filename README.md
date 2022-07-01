@@ -3,7 +3,7 @@ BIT is an academic course related to Information technology.
 
 # Universities
 - Purbanchal University
-- Kathmandu University
+- Tribhuban University 
 - International Affiliated
 
 # What is Focus On
