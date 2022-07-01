@@ -96,5 +96,6 @@ Tip: Discount / Schorship
 - Participate in events
 - Improve your skill
 - Learn whats in market
+- Ask Question [Master Kata Bata Garna Milxa]
 
 ### IS 3 Years Course Bad?
