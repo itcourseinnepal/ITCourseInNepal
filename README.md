@@ -38,7 +38,7 @@ Tip: Discount / Schorship
 | NAMI College [TU Equal] | University of Northhampton UK | 3 | 6 | Rs, 12,25,000 [May Increasee] |  GPA 2.5 in aggregate |
 | Padmashree International College  | Nilai University  | 4 | 8 | Rs, 8-9 Lakh | [10 math and eng 45%], +2 Pass  |
 | Herald College Kathmandu [TU Equal] | University of Sunderland  | 3 | 6 | Rs 8,16,000  | GPA 2.2, SEE Math C+, English B   |
-| Softwarica College [TU Equal] | UCoventry University  | 3 | 6 | Rs 11,83,000  | 12 [50%], English Test  |
+| Softwarica College [TU Equal] | Coventry University  | 3 | 6 | Rs 11,83,000  | 12 [50%], English Test  |
 
 
 ### Tips to Find Good College
@@ -47,37 +47,37 @@ Tip: Discount / Schorship
 - View Syllabus    
 
 ### Job / Internship
-1. Website developer 
-2. Software developers 
-3. App developers 
-4. IOT developers 
-5. Graphics designers 
-6. Video editor
-7. Cybersecurity experts 
-8. QA tester
-9. IT support
-10. Networking expert
-11. UI/UX designer 
-12. IT entrepreneurs 
-13. Ethical hacker
-14. Digital marketer
+1. Website Developer 
+2. Software Developer 
+3. App Developer
+4. IOT Developer 
+5. Graphics Designers 
+6. Video Editor
+7. Cybersecurity Expert
+8. QA Tester
+9. IT Support
+10. Networking Expert
+11. UI/UX Designer 
+12. IT Entrepreneur
+13. Ethical Hacker
+14. Digital Marketer
 15. Youtuber 
 16. Blogger
-17. Database designer
-18. Frontend developers 
-19. Backend developers 
-20. Fullstack developers 
-21. Open IT company 
-22. IT officer 
-23. Computer operators 
-24. Game developers 
-25. System analysts 
-26. Computer teacher
-27. Photo studio
-28. AI machine learning experts 
-29. Data scientists 
-30. Freelancer 
-31. Blockchain developers
+17. Database Designer
+18. Frontend Developer 
+19. Backend Developer 
+20. Fullstack Developer 
+21. Open IT Company 
+22. IT Officer 
+23. Computer Operators 
+24. Game Developers 
+25. System Analysts 
+26. Computer Teacher
+27. Photo Studio
+28. AI/ Machine Learning Expert 
+29. Data Scientist 
+30. Freelancer
+31. Blockchain Developer
 
 ### Salary
 - Depends upon skill
@@ -96,6 +96,5 @@ Tip: Discount / Schorship
 - Participate in events
 - Improve your skill
 - Learn whats in market
-
 
 ### IS 3 Years Course Bad?
