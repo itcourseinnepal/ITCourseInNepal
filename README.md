@@ -7,7 +7,7 @@ BIT is an academic course related to Information technology.
 - International Affiliated
 
 # What is Focus On
-- Introduction to Programming, Database, Artificial Intelligence, Networking, Application Development, Web Development
+- Introduction to Programming, Database, Artificial Intelligence, Networking, Application Development, Web Development, Ethics
 
 ### Purbanchal University
 
@@ -92,8 +92,9 @@ Tip: Discount / Schorship
 - Real-World IT Project
 
 ### Tips
-- Don't only depend upon a college education.
-- Improve your skill 
+- Don't only depend upon a college education
+- Participate in events
+- Improve your skill
 - Learn whats in market
 
 
