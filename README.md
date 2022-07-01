@@ -95,3 +95,6 @@ Tip: Discount / Schorship
 - Don't only depend upon a college education.
 - Improve your skill 
 - Learn whats in market
+
+
+### IS 3 Years Course Bad?
